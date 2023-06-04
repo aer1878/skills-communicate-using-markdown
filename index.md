@@ -17,3 +17,7 @@ begin transaction
 update t1 set i1 = 42 where i2 = 0 and t1 = 'x'
 commit transaction
 ```
+
+- [x] Coady
+- [x] Begovic
+- [ ] Holgate
